@@ -4,6 +4,11 @@
   
 </h2>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=000&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=I'm+Leonardo+Ramos!;Welcome!;Be+Happy!;:D)](https://git.io/typing-svg)
+</div>
+
 <a href="https://komarev.com/ghpvc/?username=leozito956">
   <img align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
