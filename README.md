@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
- <a href="https://linkedin.com/in/emanuelle-silva-16502a223/" target="_blank">
+ <a href="https://www.linkedin.com/in/leonardo-pereira-ramos-bb0594254/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/m4nella" target="_blank">
