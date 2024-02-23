@@ -28,5 +28,19 @@
 
 <br/>
 
-
+<p align="center">
+ <a href="https://linkedin.com/in/emanuelle-silva-16502a223/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/m4nella" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m4nella" />
+ </a> -->
+ <a target='_blank' href="https://twitch.tv/m4nella">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+ <a href="https://instagram.com/_memaruelle/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="m4nella" />
+ </a>
+<!--  <a href="https://discord.gg/---------" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+</p>
 
