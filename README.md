@@ -19,7 +19,7 @@
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bts.armys&cover_image=true&theme=default&show_offline=true&background_color=1b0326&interchange=false&bar_color=3caa49&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6xgt5fvmjfj4cg0fep3il0j9s&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6xgt5fvmjfj4cg0fep3il0j9s&cover_image=true&theme=novatorem&show_offline=false&background_color=e0e485&interchange=false&bar_color=8b47b8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
 
