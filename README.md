@@ -1,4 +1,4 @@
-<div background-color:red>
+<div style="background-color: red;>
 <h2 align="center">
  Leonardo's Profile
   
