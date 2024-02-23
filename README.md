@@ -1,4 +1,8 @@
-
+<style>
+    body {
+        background-color: #f0f0f0; /* Cor de fundo desejada */
+    }
+</style>
 
 <div align="center">
   
