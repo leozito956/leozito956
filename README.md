@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  
- <a href="https://instagram.com/_memaruelle/" target="_blank">
+ <a href=" https://www.instagram.com/leo.zinhoz?igsh=bGI5aWF2angwcHU2" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="m4nella" />
  </a>
 <!--  <a href="https://discord.gg/---------" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
