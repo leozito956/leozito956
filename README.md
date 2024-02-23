@@ -1,4 +1,4 @@
-<div style="background-color: red;>
+
 <h2 align="center">
  Leonardo's Profile
   
@@ -39,4 +39,3 @@
 <!--  <a href="https://discord.gg/---------" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </p>
 
-</div>
