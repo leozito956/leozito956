@@ -4,14 +4,14 @@
 </div>
 
 <a href="https://komarev.com/ghpvc/?username=leozito956">
-  <img width="500px" height="500px" align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
 <p align="center">
 <br />
   <br />
-<img src="howl.gif">
+<img  width="500px" height="500px" src="howl.gif">
 
   
 </p>
