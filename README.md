@@ -4,7 +4,7 @@
 </div>
 
 <a href="https://komarev.com/ghpvc/?username=leozito956">
-  <img size="600px" align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img width="500px" height="500px" align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
