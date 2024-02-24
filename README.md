@@ -11,7 +11,7 @@
 <p align="center">
 <br />
   <br />
-<img  width="500px" height="500px" src="howl.gif">
+<img  width="500px" height="700px" src="howl.gif">
 
   
 </p>
