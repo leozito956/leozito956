@@ -1,11 +1,9 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=DDA0DD&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=I'm+Leonardo+Ramos!;Welcome!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=DDA0DD&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=+Leonardo's+Profile!;Welcome!;)](https://git.io/typing-svg)
 </div>
 
-<a href="https://komarev.com/ghpvc/?username=leozito956">
-  <img align="right" src="https://komarev.com/ghpvc/?username=leozito956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 
 <p align="center">
@@ -18,12 +16,12 @@
 <h3 align="center">
         <samp> I'm Leonardo Pereira Ramos
                 <b></b>
-          but you can also call me Léo
+          but you can also call me Léo.
         </samp>
 
   <samp> I'm studying
                 <b></b>
-          but you can also call me Léo
+         Information Systems college (Unasp-HT).
         </samp>
 </h3>
 
