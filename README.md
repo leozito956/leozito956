@@ -5,7 +5,7 @@
     </td>
     <td style="border: none; padding: 0; text-align: center;">
       <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=d8748c&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=I'm+Leonardo+Ramos!;Welcome!;" style="border: none; border-radius: 0;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=d8748c&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Leonardo's+Profile!;Welcome!;" style="border: none; border-radius: 0;">
       </a>
     </td>
     <td style="border: none; padding: 0;">
