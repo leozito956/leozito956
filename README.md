@@ -13,8 +13,19 @@
   <br />
 <img  width="800px" height="500px" src="howls.gif">
 
-  
 </p>
+
+<h3 align="center">
+        <samp> I'm Leonardo Pereira Ramos
+                <b></b>
+          but you can also call me Léo
+        </samp>
+
+  <samp> I'm studying
+                <b></b>
+          but you can also call me Léo
+        </samp>
+</h3>
 
 <br/>
 
