@@ -71,9 +71,28 @@
   <img style="display: inline-block; vertical-align: middle; width: 100px; height: 100px;" src="accela_2.gif">
 </p>
 
-
-
-
-
 <br/>
+<table align="center">
+  <tr>
+    <th colspan="2"><h3>I'm studying</h3></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/Django_Rest_Framework-0D1117?style=for-the-badge" />&nbsp;
+      <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" />&nbsp;
+      <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
+    </td>
+  </tr>
+</table>
+
 
