@@ -91,9 +91,10 @@
   </tr>
 </table>
 
-<div align="center">
+<div align="center"> 
+  <img alt="Leozito's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leozito956&langs_count=8&layout=compact&theme=react&border_color=FFF&bg_color=&title_color=d8748c&icon_color=F8D866" height="195px" width="42%"/>
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leozito956&show_icons=true&count_private=true&hide_border=true&title_color=d8748c&icon_color=d8748c&text_color=d8748c&bg_color=1C1C1C" alt="Kethelyn Santos github stats" /> 
  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=leozito956&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=FFF&icon_color=FFF&text_color=FFF&bg_color=FFF&ring=FFF&fire=FFF&currStreakLabel=FFF&currStreakNum=FFF&sideNums=FFF&sideLabels=FFF&background=d8748c&dates=FFF" />
-    <a href="https://github.com/leozito956"><img alt="Leozito's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leozito956&langs_count=8&layout=compact&theme=react&border_color=FFF&bg_color=&title_color=d8748c&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   
 </div>
 
