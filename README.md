@@ -59,7 +59,7 @@
 
 <br/>
 
- # I'm  listening...
+
  
 <p align="center">
   <img style="display: inline-block; vertical-align: middle; width: 100px; height: 100px;" src="accela_2.gif">
