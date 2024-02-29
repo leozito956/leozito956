@@ -45,10 +45,10 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/leonardo-pereira-ramos-bb0594254/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leozito"/>
       </a>
       <a href="https://www.instagram.com/leo.zinhoz/?igsh=bGI5aWF2angwcHU2" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="m4nella" />
+        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="leozito" />
       </a>
     </td>
   </tr>
