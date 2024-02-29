@@ -1,4 +1,4 @@
-<table align="center" style="margin: 0 auto; border-collapse: collapse; width: 100%; border: none;">
+<table align="center" style="margin: 0 auto; border-collapse: collapse; width: 400px; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
       <img width="140px" height="140px" src="SunD.gif" style="border: none; border-radius: 0;">
@@ -13,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
