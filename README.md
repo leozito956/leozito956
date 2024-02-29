@@ -81,18 +81,19 @@
       <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />&nbsp;
-      <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" />&nbsp;
-      <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" />&nbsp;
-      <img src="https://img.shields.io/badge/Django_Rest_Framework-0D1117?style=for-the-badge" />&nbsp;
       <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" />&nbsp;
       <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leozito956&show_icons=true&count_private=true&hide_border=true&title_color=d8748c&icon_color=d8748c&text_color=d8748c&bg_color=1C1C1C" alt="Kethelyn Santos github stats" /> 
+ <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=leozito956&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=FFF&icon_color=FFF&text_color=FFF&bg_color=FFF&ring=FFF&fire=FFF&currStreakLabel=FFF&currStreakNum=FFF&sideNums=FFF&sideLabels=FFF&background=d8748c&dates=FFF" />
+</div>
 
